@@ -3,7 +3,7 @@
  
 void setup()
 {
-  WiFiWrapStart("fred", "dIeX2tErJUCHBfGIZDUb2a2upWm9dpaw8ld3DOs4xSnIWymCogNsEDz5vpN9OyJ");
+  WiFiWrapStart("fred", "XXXXXXXXXXXXXXXXXXXXXXXXXXX");
   UDisPlayStart("192.168.3.177", 4567);
 }
 

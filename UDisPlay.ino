@@ -3,13 +3,8 @@
  
 void setup()
 {
-<<<<<<< HEAD
   WiFiWrapStart("IOT", "frederic");
   UDisPlayStart("192.168.2.2", 4567); // IP is you display server 
-=======
-  WiFiWrapStart("fred", "XXXXXXXXXXXXXXXXXXXXXXXXXXX");
-  UDisPlayStart("192.168.3.177", 4567);
->>>>>>> 5f2147b136071777491934699b92b7d0470ea3f0
 }
 
 void loop()

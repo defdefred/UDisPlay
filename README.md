@@ -24,5 +24,5 @@ The first lettre of the message is used as a header to modify the app behavior:
 ## UDisPlay Andriod apps
 ### Classic text screen
 https://github.com/defdefred/UDisPlay/blob/main/apk/UDisPlay.apk
-`t` mean ~timed~ and add YYYYMMDD-hhmmss: at the beginning of each message
-![](img/Screenshot_20250921_204802.jpg)
+Timed example
+![iTimed example ](img/Screenshot_20250921_204802.jpg)

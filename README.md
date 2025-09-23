@@ -1,5 +1,5 @@
 # UDisPlay
-Using an old android phone as a remore wifi text display for you ESP32 project.
+Using an old android/apple phone/tablet as a remote wifi text display for you ESP32 project.
 ## ESP32 side
 Very easy.
 ### Choose the UDisPlay server IP and UDP port
@@ -22,7 +22,11 @@ The first lettre of the message is used as a header to modify the app behavior:
 ```
 
 ## UDisPlay Andriod apps
+Apps are tested on Samsung S24 Android 15, Samsung Galaxy Tab 8.9 Android 4.0.4, 
 ### Classic text screen
-https://github.com/defdefred/UDisPlay/blob/main/apk/UDisPlay.apk
+https://github.com/defdefred/UDisPlay/raw/288cc2d111cfe670486416141a3e7bf02fac7c6e/apk/UDisPlay.apk
 Timed example
 ![iTimed example ](img/Screenshot_20250921_204802.jpg)
+
+## UDisplay Apple apps
+I don't have any iphone for testing the apps...

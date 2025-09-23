@@ -26,7 +26,7 @@ Apps are tested on Samsung S24 Android 15, Samsung Galaxy Tab 8.9 Android 4.0.4,
 ### Classic text screen
 https://github.com/defdefred/UDisPlay/raw/288cc2d111cfe670486416141a3e7bf02fac7c6e/apk/UDisPlay.apk
 Timed example
-![iTimed example ](img/Screenshot_20250921_204802.jpg)
+![Timed example](img/Screenshot_20250921_204802.jpg)
 
 ## UDisplay Apple apps
 I don't have any iphone for testing the apps...

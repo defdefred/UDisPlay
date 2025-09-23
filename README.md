@@ -22,7 +22,7 @@ The first lettre of the message is used as a header to modify the app behavior:
 ```
 
 ## UDisPlay Andriod apps
-Apps are tested on Samsung S24 Android 15, Samsung Galaxy Tab 8.9 Android 4.0.4, 
+Apps are tested on Samsung S24 Android 15, Samsung Galaxy Tab 8.9 Android 4.0.4, ColorFly Android 4.4.2. 
 ### Classic text screen
 https://github.com/defdefred/UDisPlay/raw/288cc2d111cfe670486416141a3e7bf02fac7c6e/apk/UDisPlay.apk
 Timed example

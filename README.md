@@ -21,7 +21,7 @@ The first lettre of the message is used as a header to modify the app behavior:
   UDisPlaySend();
 ```
 
-## UDisPlay Andriod apps
+## UDisPlay Android apps
 Apps are tested on Samsung S24 Android 15, Samsung Galaxy Tab 8.9 Android 4.0.4, ColorFly Android 4.4.2. 
 ### Classic text screen
 ![Qrcode](qrcode/UDisPlay-qrc.png)
